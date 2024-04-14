@@ -45,7 +45,7 @@ find . -size 1033c -type f ! -executable #Finds file with size = 1033 bytes(c st
 >Password: P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 
 + `cd / `to go to root to look for all the files on the server.
-+ `find . -size 33c -user bandit7 -group bandit6 |less #checks` for size=32 bytes , user=bandit7 and group=bandit6
++ `find . -size 33c -user bandit7 -group bandit6 |less` #checks for size=32 bytes , user=bandit7 and group=bandit6
 
 ### Level 07:-
 >Password: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
